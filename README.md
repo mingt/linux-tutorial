@@ -59,8 +59,8 @@
   - [Nodejs 安装](docs/linux/soft/nodejs-install.md)
 - 开发工具
   - [Nexus 运维](docs/linux/soft/nexus-ops.md)
-  - [Gitlab 运维](docs/linux/soft/kafka-install.md)
-  - [Jenkins 运维](docs/linux/soft/jenkins.md)
+  - [Gitlab 运维](docs/linux/soft/gitlab-ops.md)
+  - [Jenkins 运维](docs/linux/soft/jenkins-ops.md)
   - [Svn 运维](docs/linux/soft/svn-ops.md)
   - [YApi 运维](docs/linux/soft/yapi-ops.md)
 - 中间件服务
@@ -152,3 +152,7 @@
   - [东北大学](http://mirror.neu.edu.cn/)
   - [浙江大学](http://mirrors.zju.edu.cn/)
   - [东软信息学院](http://mirrors.neusoft.edu.cn/)
+
+## 🚪 传送门
+
+◾ 🏠 [LINUX-TUTORIAL 首页](https://github.com/dunwu/linux-tutorial) ◾ 🎯 [我的博客](https://github.com/dunwu/blog) ◾
